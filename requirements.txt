@@ -1,0 +1,12 @@
+
+langchain-community>=0.3,<0.5
+langchain-text-splitters>=0.3,<2
+pypdf>=5,<7
+sentence-transformers>=3,<7
+faiss-cpu>=1.8,<2
+scikit-learn>=1.5,<2
+transformers>=4.44,<5
+torch>=2.3,<3
+streamlit>=1.40,<2
+jupyter>=1,<2
+pytest>=8,<9
